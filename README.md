@@ -47,8 +47,6 @@ Built 6 charts covering inequality, poverty, GDP, inflation, and income distribu
 - Structural disparities by ethnicity and geography persisted despite aggregate improvement
 - Oil price dependency made gains fragile — poverty rates in rural provinces doubled after the 2014 oil price collapse
 
-📄 **Full paper:** [Ecuador\_Growth\_Poverty\_Inequality\_Analysis.docx](papers/Ecuador_Growth_Poverty_Inequality_Analysis.docx)
-
 ---
 
 
@@ -95,8 +93,6 @@ Built 6 charts covering inequality, poverty, GDP, inflation, and income distribu
 - Stacked bar analysis revealed urban poverty fell roughly in half while rural poverty barely moved, with extreme poverty persisting at much higher rates in rural areas
 - Pattern replicated in Panama and El Salvador — macroeconomic stability achieved alongside deepening structural inequality
 - Loss of monetary policy tools left Ecuador unable to respond to localised economic shocks affecting vulnerable populations
-
-📄 **Full report:** [Ecuador\_Dollarisation\_Indigenous\_Inequality\_Report.docx](papers/Ecuador_Dollarisation_Indigenous_Inequality_Report.docx)
 
 ---
 
